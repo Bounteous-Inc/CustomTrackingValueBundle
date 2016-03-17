@@ -1,0 +1,7 @@
+parameters:
+    oro_tracking.importexport.data_converter.data.class: DemacMedia\Bundle\CustomTrackingValueBundle\ImportExport\DataConverter
+
+services:
+#    demac_media_custom_tracking_value.example:
+#        class: DemacMedia\Bundle\CustomTrackingValueBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
