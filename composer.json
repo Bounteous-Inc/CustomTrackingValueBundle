@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-0": {
-      "DemacMedia\\Bundle\\ErpBundle": "src/"
+      "DemacMedia\\Bundle\\CustomTrackingValueBundle": "src/"
     }
   },
   "target-dir": "src/DemacMedia/Bundle/CustomTrackingValueBundle",
